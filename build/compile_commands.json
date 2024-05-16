@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/eah1206/OneDrive - University of North Carolina at Chapel Hill/Documents/Programming Projects/Hello-World-C/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\cc.exe   -O3 -DNDEBUG -o CMakeFiles\\Hello-World-C.dir\\hello_world.c.obj -c \"C:\\Users\\eah1206\\OneDrive - University of North Carolina at Chapel Hill\\Documents\\Programming Projects\\Hello-World-C\\hello_world.c\"",
+  "file": "C:/Users/eah1206/OneDrive - University of North Carolina at Chapel Hill/Documents/Programming Projects/Hello-World-C/hello_world.c",
+  "output": "CMakeFiles/Hello-World-C.dir/hello_world.c.obj"
+}
+]
